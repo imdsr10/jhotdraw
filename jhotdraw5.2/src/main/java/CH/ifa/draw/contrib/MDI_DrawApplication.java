@@ -94,9 +94,9 @@ public class MDI_DrawApplication extends DrawApplication implements InternalFram
 		}
 
 		// all registered listeners to the new internal frame
-		Enumeration enum = mdiListeners.elements();
-		while (enum.hasMoreElements()) {
-			internalFrame.addInternalFrameListener((InternalFrameListener)enum.nextElement());
+		Enumeration enumi = mdiListeners.elements();
+		while (enumi.hasMoreElements()) {
+			internalFrame.addInternalFrameListener((InternalFrameListener)enumi.nextElement());
 		}
 
 		getDesktop().add(internalFrame);

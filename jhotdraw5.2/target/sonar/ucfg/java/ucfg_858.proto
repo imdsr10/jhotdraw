@@ -1,0 +1,40 @@
+
+jCH.ifa.draw.standard.ChopBoxConnector#chop(LCH/ifa/draw/framework/Figure;Ljava/awt/Point;)Ljava/awt/Point;
+__unknown_file (targetfrom"1*Í
+1z
+p/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ChopBoxConnector.java; ;(–
+Õ
+z
+p/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ChopBoxConnector.java; ;()
+%0"=CH.ifa.draw.framework.Figure#displayBox()Ljava/awt/Rectangle;*
+
+
+targetí
+è
+z
+p/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ChopBoxConnector.java; ;(*
+r"__id*
+
+%0¸
+˘
+z
+p/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ChopBoxConnector.java<% <(?
+%1"ICH.ifa.draw.util.Geom#pointToAngle(Ljava/awt/Rectangle;Ljava/awt/Point;)D*"
+CH.ifa.draw.util.Geom*
+
+r*
+
+from˙
+˜
+z
+p/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ChopBoxConnector.java< <(A
+%2"ICH.ifa.draw.util.Geom#angleToPoint(Ljava/awt/Rectangle;D)Ljava/awt/Point;*"
+CH.ifa.draw.util.Geom*
+
+r*
+
+%1"Ñ
+z
+p/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ChopBoxConnector.java< <(B
+
+%2

@@ -94,9 +94,9 @@ public class CustomToolBar extends JToolBar {
             removeAll();
 
             JComponent currentTool = null;
-            Enumeration enum = currentTools.elements();
-            while (enum.hasMoreElements()) {
-                currentTool = (JComponent)enum.nextElement();
+            Enumeration enumi = currentTools.elements();
+            while (enumi.hasMoreElements()) {
+                currentTool = (JComponent)enumi.nextElement();
                 super.add(currentTool);
             }
             validate();

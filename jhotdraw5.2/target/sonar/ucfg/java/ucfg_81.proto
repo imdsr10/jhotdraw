@@ -1,0 +1,47 @@
+
+RCH.ifa.draw.application.DrawApplication#createStatusLine()Ljavax/swing/JTextField;
+__unknown_file ("1*‰
+1~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java°* °(3¡ž
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java° °()
+%0"javax.swing.JTextFieldÛ
+Ø
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java° °(8
+%1"3javax.swing.JTextField#<init>(Ljava/lang/String;I)V*
+
+%0*	
+No Tool*
+""š
+—
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java° °(9
+field"__id*
+
+%0®
+«
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java± ±('
+%2"__id**
+java.awt.Color"
+whiteÕ
+Ò
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java± ±((
+%3"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*	
+
+field*
+
+%2Í
+Ê
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java² ²( 
+%4"/javax.swing.text.JTextComponent#setEditable(Z)V*	
+
+field*
+"""‹
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java³ ³(	
+
+field

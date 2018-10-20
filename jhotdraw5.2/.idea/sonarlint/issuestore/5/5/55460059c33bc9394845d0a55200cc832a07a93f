@@ -1,51 +1,0 @@
-
-osquid:ModifiersOrderCheck'"EReorder the modifiers to comply with the Java Language Specification.(¡Ó¢Ãûÿÿÿÿ
-gsquid:S2095·"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¥–³÷
-jsquid:ModifiersOrderCheck."EReorder the modifiers to comply with the Java Language Specification.(şÚ–’
-asquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(³ï \
-osquid:ModifiersOrderCheck""EReorder the modifiers to comply with the Java Language Specification.(”ĞÌÓşÿÿÿÿ
-fsquid:S1192§"IDefine a constant instead of duplicating this literal "FontName" 3 times.(Ñğ–Òúÿÿÿÿ
-Zsquid:S1854Ø"=Remove this useless assignment to local variable "textColor".(ÈÜÚ¸şÿÿÿÿ
-osquid:ModifiersOrderCheck#"EReorder the modifiers to comply with the Java Language Specification.(²çí øÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û©×
-osquid:ModifiersOrderCheck*"EReorder the modifiers to comply with the Java Language Specification.(»¡Ò¦úÿÿÿÿ
-Vsquid:UnusedPrivateMethodŠ"0Remove this unused private "stopSleeper" method.(æİø­
-osquid:ModifiersOrderCheck)"EReorder the modifiers to comply with the Java Language Specification.(ëÚàûÿÿÿÿÿ
-nsquid:S14503"WRemove the "fIconkit" field and declare it as a local variable in the relevant methods.(õ¾Íã
-fsquid:S2095¶"IUse try-with-resources or close this "InputStream" in a "finally" clause.(£ÂÔÄüÿÿÿÿ
-Fsquid:S1481Ï".Remove this unused "textColor" local variable.(Ü² ÿ
-3squid:S3626 "Remove this redundant jump.(ûÁİ…
-fsquid:S1192u"JDefine a constant instead of duplicating this literal "FillColor" 3 times.(·ÅõØıÿÿÿÿ
-fsquid:S1192y"JDefine a constant instead of duplicating this literal "TextColor" 3 times.(„Œİèşÿÿÿÿ
-rsquid:S001157"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÅÿÕ«
-Qsquid:S1161=":Add the "@Override" annotation above this method signature( Üó
-osquid:ModifiersOrderCheck-"EReorder the modifiers to comply with the Java Language Specification.(Ú¸•İÿÿÿÿÿ
-esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(±¹şÉ
-Usquid:S1197¥"8Move the array designator from the variable to the type.(–ÈÉÚşÿÿÿÿ
-osquid:ModifiersOrderCheck2"EReorder the modifiers to comply with the Java Language Specification.(„°ËÛùÿÿÿÿ
-9squid:S2129„"!Remove this "Integer" constructor(¯ƒÒÅ
-jsquid:ModifiersOrderCheck,"EReorder the modifiers to comply with the Java Language Specification.(œ˜
-Xsquid:S10757"ARefactor your code to get this URI from a customizable parameter.(ÅÿÕ«
-Usquid:CallToDeprecatedMethodŒ",Remove this use of "stop"; it is deprecated.(»Ÿü£
-osquid:ModifiersOrderCheck0"EReorder the modifiers to comply with the Java Language Specification.(òÒ¤Àúÿÿÿÿ
-9squid:S2129ƒ"!Remove this "Integer" constructor(ğì¯Å
-Esquid:S1604Ì"(Make this anonymous inner class a lambda(Şı…œùÿÿÿÿ
-^squid:S2142Ÿ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-Usquid:S1854Ï"=Remove this useless assignment to local variable "textColor".(Ü² ÿ
-Esquid:S1604æ"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
-}squid:S4144®"fUpdate this method so that its implementation is not identical to "createAttributesPanel" on line 105.(ÃàÙI
-Asquid:S19483"*Make "fIconkit" transient or serializable.(õ¾Íã
->squid:S2129†"!Remove this "Integer" constructor(¸ÜŸ¢ÿÿÿÿÿ
-hsquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(»ßúÀúÿÿÿÿ
-Wsquid:UnusedPrivateMethod„"1Remove this unused private "startSleeper" method.(œ—¨›
-gsquid:S1192}"KDefine a constant instead of duplicating this literal "FrameColor" 3 times.(°×Áûÿÿÿÿ
-Csquid:S10683",Remove this unused "fIconkit" private field.(õ¾Íã
-osquid:ModifiersOrderCheck/"EReorder the modifiers to comply with the Java Language Specification.(˜†‹şÿÿÿÿÿ
-Rsquid:S1161™":Add the "@Override" annotation above this method signature(“–ış
-bsquid:S1192ƒ"JDefine a constant instead of duplicating this literal "ArrowMode" 6 times.(ğì¯Å
-jsquid:ModifiersOrderCheck%"EReorder the modifiers to comply with the Java Language Specification.(œê§Í
->squid:S2129…"!Remove this "Integer" constructor(›÷†ÿøÿÿÿÿ
-Esquid:S1604ğ"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
-psquid:S1450."YRemove the "fTextColor" field and declare it as a local variable in the relevant methods.(şÚ–’
-jsquid:ModifiersOrderCheck&"EReorder the modifiers to comply with the Java Language Specification.(½şï
-asquid:CallToDeprecatedMethod¥"3Remove this use of "getFontList"; it is deprecated.(–ÈÉÚşÿÿÿÿ

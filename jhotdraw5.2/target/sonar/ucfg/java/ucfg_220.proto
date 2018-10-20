@@ -1,0 +1,39 @@
+
+;CH.ifa.draw.contrib.PolygonFigure#distanceFromLine(IIIIII)D
+__unknown_file ("""""""""""""2"5"1*Ω
+1x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaë ë(∏
+µ
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaï ï('
+%2"java.lang.Math#sqrt(D)D*"
+java.lang.Math*
+"""Ç
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaï ï((
+""*≥
+2x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaè# è()Æ
+´
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaè# è(3
+%1"__id*#*!
+java.lang.Double"
+	MAX_VALUE"Ç
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaè è(4
+""*Ë
+5x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaä ä(„
+‡
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaä ä(3
+%0"#CH.ifa.draw.util.Geom#length(IIII)J*"
+CH.ifa.draw.util.Geom*
+""*
+""*
+""*
+"""Ç
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaä ä(4
+""

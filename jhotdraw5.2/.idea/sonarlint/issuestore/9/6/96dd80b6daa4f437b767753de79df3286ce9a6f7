@@ -1,13 +1,0 @@
-
-csquid:S1068"GRemove this unused "lineConnectionSerializedDataVersion" private field.(å½Æœøÿÿÿÿ
-˜squid:S1186k"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ð·¾è
-˜squid:S1186q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¹£´
-™squid:S1186‡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾ÃŠÔ
-žsquid:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡ê°Îùÿÿÿÿ
-™squid:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂÉÆ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥œ®úÿÿÿÿ
-‚squid:S1149È"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”«“üüÿÿÿÿ
-Qsquid:S11615":Add the "@Override" annotation above this method signature(‚³­­
-Wsquid:S1161Û":Add the "@Override" annotation above this method signature(ÓÖ‹üýÿÿÿÿ
-Rsquid:S1161ã":Add the "@Override" annotation above this method signature(þ»ø¨
-Usquid:S1155Ÿ">Use isEmpty() to check whether the collection is empty or not.(ØžÖO

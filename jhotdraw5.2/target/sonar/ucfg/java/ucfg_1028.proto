@@ -1,0 +1,61 @@
+
+UCH.ifa.draw.standard.PasteCommand#bounds(Ljava/util/Enumeration;)Ljava/awt/Rectangle;
+__unknown_file (k"4*ü
+1v
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/PasteCommand.java1 1("
+v
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/PasteCommand.java1 1(
+
+r*Ï
+2v
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/PasteCommand.java0 0(¿
+¼
+v
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/PasteCommand.java0 0(+
+%3"5java.util.Enumeration#nextElement()Ljava/lang/Object;*
+
+kÈ
+Å
+v
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/PasteCommand.java0 0(9
+%4"=CH.ifa.draw.framework.Figure#displayBox()Ljava/awt/Rectangle;*
+""¿
+¼
+v
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/PasteCommand.java0 0(:
+%5"-java.awt.Rectangle#add(Ljava/awt/Rectangle;)V*
+
+r*
+
+%4*
+3*¸
+3v
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/PasteCommand.java/ /(²
+¯
+v
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/PasteCommand.java/ /("
+%2"(java.util.Enumeration#hasMoreElements()Z*
+
+k*
+2
+1*
+4v
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/PasteCommand.java.  .(!¿
+¼
+v
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/PasteCommand.java.  .(/
+%0"5java.util.Enumeration#nextElement()Ljava/lang/Object;*
+
+kÈ
+Å
+v
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/PasteCommand.java. .(=
+%1"=CH.ifa.draw.framework.Figure#displayBox()Ljava/awt/Rectangle;*
+""
+‹
+v
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/PasteCommand.java. .(>
+r"__id*
+
+%1*
+3

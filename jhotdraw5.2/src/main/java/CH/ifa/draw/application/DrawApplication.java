@@ -768,7 +768,7 @@ public  class DrawApplication
         }
         catch (IOException e) {
             showStatus(e.toString());
-        }
+    }
     }
 
     /**

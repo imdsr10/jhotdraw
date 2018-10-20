@@ -1,0 +1,264 @@
+
+ZCH.ifa.draw.contrib.PolygonFigure#chop(Ljava/awt/Polygon;Ljava/awt/Point;)Ljava/awt/Point;
+__unknown_file (polyp"12*÷
+1x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÍ Í(îë
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÍ Í(
+%26"java.awt.Pointπ
+∂
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÍ Í(
+%27"java.awt.Point#<init>(II)V*
+
+%26*
+""*
+"""É
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÍ Í(
+
+%26*Õ
+12x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaƒ ƒ(Ç
+ˇ
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaƒ ƒ(
+%0"LCH.ifa.draw.contrib.PolygonFigure#center(Ljava/awt/Polygon;)Ljava/awt/Point;*%"#
+!CH.ifa.draw.contrib.PolygonFigure*
+
+polyí
+è
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaƒ ƒ(
+ctr"__id*
+
+%0¨
+©
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java« «(
+%1"__id*!*
+java.lang.Long"
+	MAX_VALUE*
+11* 
+3x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java‰ ‰(°
+û
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÂ Â(
+%24"__id**
+
+poly"	
+xpoints°
+û
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÊ Ê(
+%25"__id**
+
+poly"	
+ypoints*
+5*Ì
+4x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java‚ ‚(°
+û
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java‚ ‚(*
+%19"__id**
+
+poly"	
+xpoints°
+û
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java‚/ ‚(;
+%20"__id**
+
+poly"	
+ypointsò
+ï
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java‚@ ‚(C
+%21"__id**
+
+
+p"
+xò
+ï
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java‚E ‚(H
+%22"__id**
+
+
+p"
+yÁ
+‰
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java‚ ‚(I
+%23"$CH.ifa.draw.util.Geom#length2(IIII)J*"
+CH.ifa.draw.util.Geom*
+""*
+""*
+
+%21*
+
+%22*
+3
+5*©
+5x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java· ·(°
+û
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java· ·(&
+%18"__id**
+
+poly"	
+npoints*
+4
+1*·
+9x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java÷ ÷(õ
+ò
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java÷ ÷(%
+%13"__id**
+
+chop"
+xõ
+ò
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java÷' ÷(-
+%14"__id**
+
+chop"
+yò
+ï
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java÷/ ÷(2
+%15"__id**
+
+
+p"
+xò
+ï
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java÷4 ÷(7
+%16"__id**
+
+
+p"
+yÈ
+Ê
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java÷ ÷(8
+%17"$CH.ifa.draw.util.Geom#length2(IIII)J*"
+CH.ifa.draw.util.Geom*
+
+%13*
+
+%14*
+
+%15*
+
+%16*
+11*⁄
+10x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÃ Ã(†
+ù
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÃ Ã(&
+%3"__id**
+
+poly"	
+npoints†
+ù
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÕ" Õ(.
+%4"__id**
+
+poly"	
+xpoints†
+ù
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaŒ Œ()
+%5"__id**
+
+poly"	
+ypoints†
+ù
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaœ œ()
+%6"__id**
+
+poly"	
+xpoints†
+ù
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java– –()
+%7"__id**
+
+poly"	
+ypointsó
+î
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java— —( 
+%8"__id**
+
+
+p"
+xó
+î
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java“ “( 
+%9"__id**
+
+
+p"
+yö
+ó
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java” ”("
+%10"__id**
+
+ctr"
+xö
+ó
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java‘ ‘("
+%11"__id**
+
+ctr"
+yú
+ô
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÕ ‘(#
+%12"9CH.ifa.draw.util.Geom#intersect(IIIIIIII)Ljava/awt/Point;*"
+CH.ifa.draw.util.Geom*
+""*
+""*
+""*
+""*
+
+%8*
+
+%9*
+
+%10*
+
+%11î
+ë
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÕ ‘($
+chop"__id*
+
+%12*
+9
+11*™
+11x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÀ À(†
+ù
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaÀ À($
+%2"__id**
+
+poly"	
+npoints*
+5
+10

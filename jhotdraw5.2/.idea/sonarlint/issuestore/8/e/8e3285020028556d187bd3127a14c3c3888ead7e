@@ -1,6 +1,0 @@
-
-]squid:CallToDeprecatedMethod)"0Remove this use of "getLabel"; it is deprecated.(¯¤–ìøÿÿÿÿ
-]squid:CallToDeprecatedMethod*"0Remove this use of "setLabel"; it is deprecated.(â´ó®ùÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¥Ò¨
-Asquid:S1948"*Make "fCommand" transient or serializable.(®®ß
-esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(µ†…

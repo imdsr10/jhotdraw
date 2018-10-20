@@ -1,0 +1,7 @@
+organization=imdsr10-github
+projectKey=imdsr10_jhotdraw
+serverUrl=https://sonarcloud.io
+serverVersion=7.4.0.18617
+dashboardUrl=https://sonarcloud.io/dashboard?id=imdsr10_jhotdraw
+ceTaskId=AWaTOAq0qD2OhLzHK7fC
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWaTOAq0qD2OhLzHK7fC

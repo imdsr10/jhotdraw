@@ -1,0 +1,75 @@
+
+ICH.ifa.draw.util.Geom#pointToAngle(Ljava/awt/Rectangle;Ljava/awt/Point;)D
+__unknown_file (rp"1*é
+1j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java{ {(â
+Ü
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java{ {(
+%0"__id**
+
+
+p"
+xâ
+Ü
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java{ {(
+%1"__id**
+
+
+r"
+xç
+ä
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java{ {(#
+%2"__id**
+
+r"
+widthâ
+Ü
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java| |(
+%3"__id**
+
+
+p"
+yâ
+Ü
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java| |(
+%4"__id**
+
+
+r"
+yé
+ã
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java| |($
+%5"__id**
+
+r"
+heightç
+ä
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java} }($
+%6"__id**
+
+r"
+widthé
+ã
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java}) }(1
+%7"__id**
+
+r"
+height¥
+±
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java} }(2
+%8"java.lang.Math#atan2(DD)D*"
+java.lang.Math*
+""*
+"""t
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java} }(3
+""

@@ -89,9 +89,9 @@ public class StandardLayouter implements Layouter {
 		int maxHeight = 0;
 		
 		// layout enclosed Layoutable and find maximum width
-		FigureEnumeration enum = getLayoutable().figures();
-		while (enum.hasMoreElements()) {
-			Figure currentFigure = enum.nextFigure();
+		FigureEnumeration enumi = getLayoutable().figures();
+		while (enumi.hasMoreElements()) {
+			Figure currentFigure = enumi.nextFigure();
 			Rectangle r = null;
 			if (currentFigure instanceof Layoutable) {
 				Layouter layoutStrategy = ((Layoutable)currentFigure).getLayouter();
@@ -126,9 +126,9 @@ public class StandardLayouter implements Layouter {
 		Rectangle r = calculateLayout(origin, corner);
 
 		int maxHeight = getInsets().top;
-		FigureEnumeration enum = getLayoutable().figures();
-		while (enum.hasMoreElements()) {
-			Figure currentFigure = enum.nextFigure();
+		FigureEnumeration enumi = getLayoutable().figures();
+		while (enumi.hasMoreElements()) {
+			Figure currentFigure = enumi.nextFigure();
 
 			Point partOrigin = new Point(r.x + getInsets().left, r.y + maxHeight);
 			Point partCorner = new Point(r.x + getInsets().left + r.width, r.y + currentFigure.displayBox().height);

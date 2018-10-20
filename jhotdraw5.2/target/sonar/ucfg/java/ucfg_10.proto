@@ -1,0 +1,55 @@
+
+ECH.ifa.draw.applet.DrawApplet#createToolPalette()Ljavax/swing/JPanel;
+__unknown_file ("1*·
+1t
+h/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/applet/DrawApplet.javaÅ Å(%ìê
+t
+h/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/applet/DrawApplet.javaÅ Å(#
+%0"javax.swing.JPanel•
+¢
+t
+h/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/applet/DrawApplet.javaÅ Å(%
+%1"javax.swing.JPanel#<init>()V*
+
+%0í
+è
+t
+h/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/applet/DrawApplet.javaÅ Å(&	
+palette"__id*
+
+%0èå
+t
+h/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/applet/DrawApplet.javaÇ2 Ç(7
+%2"java.awt.Point≥
+∞
+t
+h/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/applet/DrawApplet.javaÇ. Ç(<
+%3"java.awt.Point#<init>(II)V*
+
+%2*
+""*
+""üú
+t
+h/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/applet/DrawApplet.javaÇ Ç(+
+%4"CH.ifa.draw.util.PaletteLayout“
+œ
+t
+h/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/applet/DrawApplet.javaÇ Ç(=
+%5"9CH.ifa.draw.util.PaletteLayout#<init>(ILjava/awt/Point;)V*
+
+%4*
+""*
+
+%2Õ
+ 
+t
+h/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/applet/DrawApplet.javaÇ Ç(>
+%6"7java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V*
+	
+palette*
+
+%4"É
+t
+h/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/applet/DrawApplet.javaÉ É(
+	
+palette

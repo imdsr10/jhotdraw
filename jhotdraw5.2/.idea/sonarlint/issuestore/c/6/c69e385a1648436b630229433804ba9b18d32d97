@@ -1,5 +1,0 @@
-
-=squid:S1190\"!Use a different name than "enum".(Ö—Á¬üÿÿÿÿ
->squid:S1190"!Use a different name than "enum".(Ö—Á¬üÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é¿Ğ¬
-}squid:UselessImportCheck	"TRemove this unnecessary import: same package classes are always implicitly imported.(‘¡¦÷øÿÿÿÿ

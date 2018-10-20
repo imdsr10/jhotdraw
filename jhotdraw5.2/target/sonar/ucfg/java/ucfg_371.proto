@@ -1,0 +1,42 @@
+
+`CH.ifa.draw.figures.FigureAttributes#readColor(LCH/ifa/draw/util/StorableInput;)Ljava/awt/Color;
+__unknown_file (dr"1*›	
+1{
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/FigureAttributes.java³ ³(¹
+¶
+{
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/FigureAttributes.java³ ³(%
+%0")CH.ifa.draw.util.StorableInput#readInt()I*
+
+dr¹
+¶
+{
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/FigureAttributes.java³' ³(3
+%1")CH.ifa.draw.util.StorableInput#readInt()I*
+
+dr¹
+¶
+{
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/FigureAttributes.java³5 ³(A
+%2")CH.ifa.draw.util.StorableInput#readInt()I*
+
+dr–“
+{
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/FigureAttributes.java³ ³(
+%3"java.awt.ColorÃ
+À
+{
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/FigureAttributes.java³ ³(B
+%4"java.awt.Color#<init>(III)V*
+
+%3*
+
+%0*
+
+%1*
+
+%2"…
+{
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/FigureAttributes.java³ ³(C
+
+%3

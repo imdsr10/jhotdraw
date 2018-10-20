@@ -1,8 +1,0 @@
-
-Bsquid:S1172-"+Remove this unused method parameter "view".(ƒÛ©ö
-Dsquid:S11722"(Remove this unused method parameter "e".(†ßğúÿÿÿÿ
-Dsquid:S1604:"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
-˜squid:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§£§ù
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÍİƒ
-Vsquid:S1161":Add the "@Override" annotation above this method signature(‰¯šåúÿÿÿÿ
-Qsquid:S1161*":Add the "@Override" annotation above this method signature(§£§ù

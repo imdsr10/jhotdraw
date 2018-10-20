@@ -1,7 +1,0 @@
-
-bsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(»‘ÀÛ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é¿Ð¬
-Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
-Qsquid:S1161)":Add the "@Override" annotation above this method signature(ðà¸’
-Qsquid:S11611":Add the "@Override" annotation above this method signature(™–ßò
-Qsquid:S11616":Add the "@Override" annotation above this method signature(†Õ…Í

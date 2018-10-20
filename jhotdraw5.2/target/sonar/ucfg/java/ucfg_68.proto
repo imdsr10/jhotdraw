@@ -1,0 +1,38 @@
+
+QCH.ifa.draw.application.DrawApplication#createToolPalette()Ljavax/swing/JToolBar;
+__unknown_file ("1*ó	
+1~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaµ µ()üú
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaµ µ('
+%0"javax.swing.JToolBar±
+Æ
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaµ µ()
+%1"javax.swing.JToolBar#<init>()V*
+
+%0ú
+ô
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaµ µ(*	
+palette"__id*
+
+%0≤
+Ø
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java∂ ∂(-
+%2"__id*!*
+java.awt.Color"
+	lightGray◊
+‘
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java∂ ∂(.
+%3"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+	
+palette*
+
+%2"ç
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaπ π(
+	
+palette

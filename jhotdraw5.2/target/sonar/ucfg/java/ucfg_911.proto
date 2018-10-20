@@ -1,0 +1,68 @@
+
+}CH.ifa.draw.standard.ConnectionTool#findConnection(IILCH/ifa/draw/framework/Drawing;)LCH/ifa/draw/framework/ConnectionFigure;
+__unknown_file (""""drawing"6*Ü
+1z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java« «("Ñ
+z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java« «(
+""*Ü
+2z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java≈) ≈(/"Ñ
+z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java≈ ≈(0
+""*ˆ
+4z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java¬% ¬(&√
+¿
+z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java¬% ¬(4
+%2"5java.util.Enumeration#nextElement()Ljava/lang/Object;*
+
+kó
+î
+z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java¬ ¬(5
+figure"__id*
+""Ú
+Ô
+z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java√ √(2
+%3"OCH.ifa.draw.framework.Figure#findFigureInside(II)LCH/ifa/draw/framework/Figure;*
+
+
+figure*
+""*
+""ó
+î
+z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java√ √(2
+figure"__id*
+
+%3*
+2
+5*¿
+5z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java¡ ¡(∂
+≥
+z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java¡ ¡("
+%1"(java.util.Enumeration#hasMoreElements()Z*
+
+k*
+4
+1*á
+6z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java¿ ¿(Î
+Ë
+z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java¿ ¿(0
+%0"WCH.ifa.draw.framework.Drawing#figuresReverse()LCH/ifa/draw/framework/FigureEnumeration;*
+	
+drawingí
+è
+z
+n/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/ConnectionTool.java¿ ¿(1
+k"__id*
+
+%0*
+5

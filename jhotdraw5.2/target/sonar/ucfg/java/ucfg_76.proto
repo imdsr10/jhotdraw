@@ -1,0 +1,72 @@
+
+kCH.ifa.draw.application.DrawApplication#createStorageFormatManager()LCH/ifa/draw/util/StorageFormatManager;
+__unknown_file ("1*Î
+1~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÜ4 Ü(N∞≠
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÜ8 Ü(L
+%0"%CH.ifa.draw.util.StorageFormatManager¬
+ø
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÜ4 Ü(N
+%1"/CH.ifa.draw.util.StorageFormatManager#<init>()V*
+
+%0©
+¶
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÜ Ü(O
+storageFormatManager"__id*
+
+%0±Æ
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaá9 á(N
+%2"&CH.ifa.draw.util.StandardStorageFormat√
+¿
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaá5 á(P
+%3"0CH.ifa.draw.util.StandardStorageFormat#<init>()V*
+
+%2ç
+ä
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaá á(Q
+%4"`CH.ifa.draw.util.StorageFormatManager#setDefaultStorageFormat(LCH/ifa/draw/util/StorageFormat;)V*
+
+storageFormatManager*
+
+%2Ñ
+Å
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaà. à(\
+%5"_CH.ifa.draw.util.StorageFormatManager#getDefaultStorageFormat()LCH/ifa/draw/util/StorageFormat;*
+
+storageFormatManagerÜ
+É
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaà à(]
+%6"YCH.ifa.draw.util.StorageFormatManager#addStorageFormat(LCH/ifa/draw/util/StorageFormat;)V*
+
+storageFormatManager*
+
+%5∂≥
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaâ2 â(L
+%7"+CH.ifa.draw.util.SerializationStorageFormat»
+≈
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaâ. â(N
+%8"5CH.ifa.draw.util.SerializationStorageFormat#<init>()V*
+
+%7Ü
+É
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaâ â(O
+%9"YCH.ifa.draw.util.StorageFormatManager#addStorageFormat(LCH/ifa/draw/util/StorageFormat;)V*
+
+storageFormatManager*
+
+%7"ö
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaä ä($
+
+storageFormatManager

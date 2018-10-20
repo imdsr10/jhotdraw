@@ -1,0 +1,321 @@
+
+KCH.ifa.draw.application.DrawApplication#createFileMenu()Ljavax/swing/JMenu;
+__unknown_file ("1*≠O
+1~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java… …(úô
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java… …(
+%0"javax.swing.JMenu 
+«
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java… …( 
+%1"-javax.swing.JMenu#<init>(Ljava/lang/String;)V*
+
+%0*
+Fileô
+ñ
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java… …(!
+menu"__id*
+
+%0†ù
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java *  (6
+%2"java.awt.MenuShortcutª
+∏
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java &  (;
+%3" java.awt.MenuShortcut#<init>(I)V*
+
+%2*
+""≤
+Ø
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java &  (D
+%4"java.awt.MenuShortcut#getKey()I*
+
+%2†ù
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java   (
+%5"javax.swing.JMenuItem÷
+”
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java   (E
+%6"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
+
+%5*
+New*
+
+%4ó
+î
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java   (F
+mi"__id*
+
+%5¥±
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÃ
+ Ã(
+%7")CH.ifa.draw.application.DrawApplication$2≠
+™
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÃ –(
+%8"java.lang.Object#<init>()V*
+
+%7È
+Ê
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÀ —(
+%9"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+mi*
+
+%7„
+‡
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java“ “(
+%10"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
+
+menu*
+
+mi°û
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java‘$ ‘(0
+%11"java.awt.MenuShortcutΩ
+∫
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java‘  ‘(5
+%12" java.awt.MenuShortcut#<init>(I)V*
+
+%11*
+""¥
+±
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java‘  ‘(>
+%13"java.awt.MenuShortcut#getKey()I*
+
+%11°û
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java‘ ‘(
+%14"javax.swing.JMenuItem›
+⁄
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java‘ ‘(?
+%15"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
+
+%14*	
+Open...*
+
+%13ò
+ï
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java‘ ‘(?
+mi"__id*
+
+%14µ≤
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java÷
+ ÷(
+%16")CH.ifa.draw.application.DrawApplication$3Ø
+¨
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java÷ ⁄(
+%17"java.lang.Object#<init>()V*
+
+%16Î
+Ë
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java’ €(
+%18"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+mi*
+
+%16„
+‡
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java‹ ‹(
+%19"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
+
+menu*
+
+mi°û
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaﬁ' ﬁ(3
+%20"java.awt.MenuShortcutΩ
+∫
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaﬁ# ﬁ(8
+%21" java.awt.MenuShortcut#<init>(I)V*
+
+%20*
+""¥
+±
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaﬁ# ﬁ(A
+%22"java.awt.MenuShortcut#getKey()I*
+
+%20°û
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaﬁ ﬁ(
+%23"javax.swing.JMenuItem‡
+›
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaﬁ ﬁ(B
+%24"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
+
+%23*
+
+Save As...*
+
+%22ò
+ï
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaﬁ ﬁ(B
+mi"__id*
+
+%23µ≤
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java‡
+ ‡(
+%25")CH.ifa.draw.application.DrawApplication$4Ø
+¨
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java‡ ‰(
+%26"java.lang.Object#<init>()V*
+
+%25Î
+Ë
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaﬂ Â(
+%27"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+mi*
+
+%25„
+‡
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÊ Ê(
+%28"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
+
+menu*
+
+mi∑
+¥
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaË Ë(
+%29"!javax.swing.JMenu#addSeparator()V*
+
+menu°û
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÈ% È(1
+%30"java.awt.MenuShortcutΩ
+∫
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÈ! È(6
+%31" java.awt.MenuShortcut#<init>(I)V*
+
+%30*
+""¥
+±
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÈ! È(?
+%32"java.awt.MenuShortcut#getKey()I*
+
+%30°û
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÈ È(
+%33"javax.swing.JMenuItemﬁ
+€
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÈ È(@
+%34"2javax.swing.JMenuItem#<init>(Ljava/lang/String;I)V*
+
+%33*
+
+Print...*
+
+%32ò
+ï
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÈ È(@
+mi"__id*
+
+%33µ≤
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÎ
+ Î(
+%35")CH.ifa.draw.application.DrawApplication$5Ø
+¨
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÎ Ô(
+%36"java.lang.Object#<init>()V*
+
+%35Î
+Ë
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÍ (
+%37"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+mi*
+
+%35„
+‡
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÒ Ò(
+%38"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
+
+menu*
+
+mi∑
+¥
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÚ Ú(
+%39"!javax.swing.JMenu#addSeparator()V*
+
+menu°û
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÛ Û(
+%40"javax.swing.JMenuItem–
+Õ
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÛ Û(
+%41"1javax.swing.JMenuItem#<init>(Ljava/lang/String;)V*
+
+%40*
+Exitò
+ï
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÛ Û(
+mi"__id*
+
+%40µ≤
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaı
+ ı(
+%42")CH.ifa.draw.application.DrawApplication$6Ø
+¨
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaı ˘(
+%43"java.lang.Object#<init>()V*
+
+%42Î
+Ë
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaÙ ˙(
+%44"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+mi*
+
+%42„
+‡
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java˚ ˚(
+%45"Ejavax.swing.JMenu#add(Ljavax/swing/JMenuItem;)Ljavax/swing/JMenuItem;*
+
+menu*
+
+mi"ä
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.java¸ ¸(
+
+menu

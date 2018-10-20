@@ -1,0 +1,49 @@
+
+LCH.ifa.draw.contrib.PolygonFigure#center(Ljava/awt/Polygon;)Ljava/awt/Point;
+__unknown_file (p"5*“
+1x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java¿ ¿(ìê
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java¿ ¿(
+%3"java.awt.Point∑
+¥
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java¿ ¿(+
+%4"java.awt.Point#<init>(II)V*
+
+%3*
+""*
+"""Ç
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java¿ ¿(,
+
+%3*≈
+3x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaº º(ù
+ö
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaº º(
+%1"__id**
+
+p"	
+xpointsù
+ö
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.javaΩ Ω(
+%2"__id**
+
+p"	
+ypoints*
+3
+1*•
+5x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java∏ ∏(ù
+ö
+x
+l/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/contrib/PolygonFigure.java∫ ∫(
+%0"__id**
+
+p"	
+npoints*
+3
+1

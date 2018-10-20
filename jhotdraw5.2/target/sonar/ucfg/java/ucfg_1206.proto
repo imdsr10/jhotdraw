@@ -1,0 +1,32 @@
+
+7CH.ifa.draw.util.Geom#polarToPoint(DDD)Ljava/awt/Point;
+__unknown_file ("""""""1*ý
+1l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.javaš š(«
+¨
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.javaš š(#
+%0"java.lang.Math#sin(D)D*"
+java.lang.Math*
+""«
+¨
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java› ›(#
+%1"java.lang.Math#cos(D)D*"
+java.lang.Math*
+""‡„
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.javaœ œ(
+%2"java.awt.Point«
+¨
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.javaœ œ(9
+%3"java.awt.Point#<init>(II)V*
+
+%2*
+""*
+"""v
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.javaœ œ(:
+
+%2

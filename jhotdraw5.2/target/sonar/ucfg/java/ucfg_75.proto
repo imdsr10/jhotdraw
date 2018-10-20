@@ -1,0 +1,54 @@
+
+zCH.ifa.draw.application.DrawApplication#createContents(LCH/ifa/draw/standard/StandardDrawingView;)Ljavax/swing/JComponent;
+__unknown_file (view"1*ê
+1~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaù) ù(-¢Ÿ
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaù ù((
+%0"javax.swing.JScrollPaneÒ
+Ï
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaù ù(.
+%1"5javax.swing.JScrollPane#<init>(Ljava/awt/Component;)V*
+
+%0*
+
+view—
+”
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaù ù(/
+sp"__id*
+
+%0Ë
+È
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaú& ú(K
+%2"__id*:*8
+javax.swing.JScrollPane"
+VERTICAL_SCROLLBAR_ALWAYSÑ
+Î
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaú ú(L
+%3"6javax.swing.JScrollPane#setVerticalScrollBarPolicy(I)V*
+
+sp*
+
+%2Í
+Ê
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaû( û(O
+%4"__id*<*:
+javax.swing.JScrollPane"
+HORIZONTAL_SCROLLBAR_ALWAYSÓ
+Ð
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaû û(P
+%5"8javax.swing.JScrollPane#setHorizontalScrollBarPolicy(I)V*
+
+sp*
+
+%4"ˆ
+~
+r/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/application/DrawApplication.javaý ý(
+
+sp

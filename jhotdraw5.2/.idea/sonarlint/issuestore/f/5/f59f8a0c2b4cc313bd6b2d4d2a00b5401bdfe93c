@@ -1,7 +1,0 @@
-
-ssquid:S3973T"WUse curly braces or indentation to denote the code conditionally executed by this "if".(¥Û÷Òøÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¨É¿
-Vsquid:S1161B":Add the "@Override" annotation above this method signature(Þ¨ÏÁùÿÿÿÿ
-Qsquid:S1161I":Add the "@Override" annotation above this method signature(Ž¿îê
-Qsquid:S1161\":Add the "@Override" annotation above this method signature(ßè€Î
-Qsquid:S1161e":Add the "@Override" annotation above this method signature(§£§ù

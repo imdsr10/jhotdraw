@@ -1,0 +1,60 @@
+
+fCH.ifa.draw.util.SerializationStorageFormat#restore(Ljava/lang/String;)LCH/ifa/draw/framework/Drawing;
+__unknown_file (fileName"6*î
+3Ä
+v/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/SerializationStorageFormat.javaK
+ K(%"ã
+Ä
+v/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/SerializationStorageFormat.javaK K(&
+""*˘
+4Ä
+v/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/SerializationStorageFormat.javaJ J(5ù
+ö
+Ä
+v/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/SerializationStorageFormat.javaJ J(5
+input"__id*
+
+%2À
+»
+Ä
+v/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/SerializationStorageFormat.javaK K(%
+%4"2java.io.ObjectInput#readObject()Ljava/lang/Object;*	
+
+input*
+3*≥
+5Ä
+v/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/SerializationStorageFormat.javaI I(:û
+õ
+Ä
+v/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/SerializationStorageFormat.javaI I(:
+stream"__id*
+
+%0ß§
+Ä
+v/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/SerializationStorageFormat.javaJ J(,
+%2"java.io.ObjectInputStream⁄
+◊
+Ä
+v/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/SerializationStorageFormat.javaJ J(4
+%3"8java.io.ObjectInputStream#<init>(Ljava/io/InputStream;)V*
+
+%2*
+
+
+stream*
+4*ç
+6Ä
+v/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/SerializationStorageFormat.javaI0 I(8•¢
+Ä
+v/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/SerializationStorageFormat.javaI  I(/
+%0"java.io.FileInputStream◊
+‘
+Ä
+v/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/SerializationStorageFormat.javaI I(9
+%1"3java.io.FileInputStream#<init>(Ljava/lang/String;)V*
+
+%0*
+
+
+fileName*
+5

@@ -1,0 +1,90 @@
+
+CCH.ifa.draw.util.ColorMap#color(Ljava/lang/String;)Ljava/awt/Color;
+__unknown_file (name"5*é
+1n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.javaC C(û
+õ
+n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.javaC C(
+%9"__id**
+java.awt.Color"
+black"x
+n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.javaC C(
+
+%9*æ
+3n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.javaA A(®
+•
+n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.javaA A(
+%6"__id*'*%
+CH.ifa.draw.util.ColorMap"
+fMapç
+ä
+n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.javaA A(
+%7"
+__arrayGet*
+
+%6ì
+ê
+n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.javaA A(%
+%8"__id**
+
+%7"
+fColor"x
+n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.javaA A(&
+
+%8*á
+4n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.java@ @(®
+•
+n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.java@ @(
+%2"__id*'*%
+CH.ifa.draw.util.ColorMap"
+fMapç
+ä
+n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.java@ @(
+%3"
+__arrayGet*
+
+%2í
+è
+n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.java@ @(
+%4"__id**
+
+%3"
+fNameπ
+∂
+n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.java@ @(*
+%5",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%4*
+
+name*
+3
+5*º
+5n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.java? ?(®
+•
+n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.java? ?( 
+%0"__id*'*%
+CH.ifa.draw.util.ColorMap"
+fMapì
+ê
+n
+d/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/ColorMap.java? ?('
+%1"__id**
+
+%0"
+length*
+4
+1

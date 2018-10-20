@@ -1,0 +1,91 @@
+
+MCH.ifa.draw.util.Geom#ovalAngleToPoint(Ljava/awt/Rectangle;D)Ljava/awt/Point;
+__unknown_file (r"""1*·
+1l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java£ £(›
+⁄
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java£ £(%
+%0"BCH.ifa.draw.util.Geom#center(Ljava/awt/Rectangle;)Ljava/awt/Point;*"
+CH.ifa.draw.util.Geom*
+
+râ
+Ü
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java£ £(&
+center"__id*
+
+%0è
+å
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java§+ §(2
+%1"__id**
+
+r"
+widthê
+ç
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java§6 §(>
+%2"__id**
+
+r"
+height„
+‡
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java§ §(A
+%3"7CH.ifa.draw.util.Geom#polarToPoint(DDD)Ljava/awt/Point;*"
+CH.ifa.draw.util.Geom*
+""*
+""*
+""Ñ
+Å
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java§ §(B
+p"__id*
+
+%3ê
+ç
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java• •(!
+%4"__id**
+
+center"
+xã
+à
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java•$ •('
+%5"__id**
+
+
+p"
+xê
+ç
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java•) •(1
+%6"__id**
+
+center"
+yã
+à
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java•4 •(7
+%7"__id**
+
+
+p"
+yáÑ
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java• •(
+%8"java.awt.Point´
+®
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java• •(8
+%9"java.awt.Point#<init>(II)V*
+
+%8*
+""*
+"""v
+l
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java• •(9
+
+%8

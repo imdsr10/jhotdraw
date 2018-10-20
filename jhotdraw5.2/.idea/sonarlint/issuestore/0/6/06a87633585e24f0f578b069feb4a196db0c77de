@@ -1,6 +1,0 @@
-
-Fsquid:S1481#"*Remove this unused "parts" local variable.(”Äë¾ÿÿÿÿÿ
-Usquid:S1854#"9Remove this useless assignment to local variable "parts".(”Äë¾ÿÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥œ®úÿÿÿÿ
-squid:S1149#"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(”Äë¾ÿÿÿÿÿ
-Vsquid:S1161.":Add the "@Override" annotation above this method signature( êÍúÿÿÿÿ

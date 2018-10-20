@@ -1,0 +1,114 @@
+
+0CH.ifa.draw.util.Geom#lineContainsPoint(IIIIII)Z
+__unknown_file ("""""""""""""7*ı
+1j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java( ((©
+¶
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java- -()
+%9"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""™
+ß
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java-+ -(;
+%10"java.lang.Math#abs(D)D*"
+java.lang.Math*
+""¥
+±
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java- -(<
+%11"java.lang.Math#min(DD)D*"
+java.lang.Math*
+
+%9*
+
+%10"t
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java- -(B
+""*ë
+2j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java& &(©
+¶
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java& &(%
+%8"java.lang.Math#abs(I)I*"
+java.lang.Math*
+"""t
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java& &(+
+""*ë
+4j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java# #(©
+¶
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java# #(%
+%7"java.lang.Math#abs(I)I*"
+java.lang.Math*
+"""t
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java# #(+
+""*Â
+6j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java ("t
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java (
+""*Å
+7j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java. (0ÖÇ
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java( (-
+%0"java.awt.Point©
+¶
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java$ (5
+%1"java.awt.Point#<init>(II)V*
+
+%0*
+""*
+""âÜ
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java (#
+%2"java.awt.Rectangle≥
+∞
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java (6
+%3",java.awt.Rectangle#<init>(Ljava/awt/Point;)V*
+
+%2*
+
+%0Å
+
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java (7
+r"__id*
+
+%2©
+¶
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java (
+%4"java.awt.Rectangle#add(II)V*
+
+r*
+""*
+""™
+ß
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java (
+%5"java.awt.Rectangle#grow(II)V*
+
+r*
+""*
+""Æ
+´
+j
+`/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/util/Geom.java (
+%6" java.awt.Rectangle#contains(II)Z*
+
+r*
+""*
+""*
+2
+4
+6
+1

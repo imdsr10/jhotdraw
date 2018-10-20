@@ -1,18 +1,0 @@
-
-Wsquid:UnusedPrivateMethodP"-Remove this unused private "taskName" method.(·²ôşÿÿÿÿ
-Zsquid:S1068"CRemove this unused "pertFigureSerializedDataVersion" private field.(ò›µâ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(•‡ŒÓúÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶Çö¶üÿÿÿÿ
-squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Óşıâøÿÿÿÿ
-|squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‡šÊì
-}squid:S1149‡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·íê
-‚squid:S1149‡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(î­Õûÿÿÿÿ
-|squid:S1149¡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ïá©V
-‚squid:S1149£"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(„Ú †ûÿÿÿÿ
-Qsquid:S1161Z":Add the "@Override" annotation above this method signature(ı¥ì²
-Rsquid:S1161":Add the "@Override" annotation above this method signature(ğà¸’
-Wsquid:S1161Ø":Add the "@Override" annotation above this method signature(£ôîˆÿÿÿÿÿ
-Wsquid:S1161İ":Add the "@Override" annotation above this method signature(’›“ùÿÿÿÿ
-Rsquid:S1161ü":Add the "@Override" annotation above this method signature(òë£Î
-Rsquid:S1161":Add the "@Override" annotation above this method signature(¶‹
-Rsquid:S1161š":Add the "@Override" annotation above this method signature(™–ßò

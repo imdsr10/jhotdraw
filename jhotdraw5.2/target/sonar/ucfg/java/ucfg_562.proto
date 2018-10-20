@@ -1,0 +1,42 @@
+
+ACH.ifa.draw.figures.TextFigure#createCurrentFont()Ljava/awt/Font;
+__unknown_file ("1*™	
+1u
+i/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/TextFigure.java— —()¡
+æ
+u
+i/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/TextFigure.java— —()
+%0"__id*9*7 
+CH.ifa.draw.figures.TextFigure"
+fgCurrentFontName¬
+ø
+u
+i/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/TextFigure.java—+ —(=
+%1"__id*:*8 
+CH.ifa.draw.figures.TextFigure"
+fgCurrentFontStyle¡
+æ
+u
+i/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/TextFigure.java—? —(P
+%2"__id*9*7 
+CH.ifa.draw.figures.TextFigure"
+fgCurrentFontSizeèå
+u
+i/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/TextFigure.java— —(
+%3"java.awt.FontÕ
+ 
+u
+i/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/TextFigure.java— —(Q
+%4"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%3*
+
+%0*
+
+%1*
+
+%2"
+u
+i/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/TextFigure.java— —(R
+
+%3

@@ -1,14 +1,0 @@
-
-jsquid:ModifiersOrderCheck:"EReorder the modifiers to comply with the Java Language Specification.(şæ‹Å
-osquid:ModifiersOrderCheckA"EReorder the modifiers to comply with the Java Language Specification.(£ˆèƒúÿÿÿÿ
-jsquid:ModifiersOrderCheckH"EReorder the modifiers to comply with the Java Language Specification.(‹·çÀ
-jsquid:ModifiersOrderCheckO"EReorder the modifiers to comply with the Java Language Specification.(Úàš
-osquid:ModifiersOrderCheckV"EReorder the modifiers to comply with the Java Language Specification.(µ®ıÓûÿÿÿÿ
-jsquid:ModifiersOrderCheck]"EReorder the modifiers to comply with the Java Language Specification.(Äõ¹¸
-osquid:ModifiersOrderCheckd"EReorder the modifiers to comply with the Java Language Specification.(½˜ƒçùÿÿÿÿ
-jsquid:ModifiersOrderCheckk"EReorder the modifiers to comply with the Java Language Specification.(ãú¬¡
-osquid:ModifiersOrderCheckr"EReorder the modifiers to comply with the Java Language Specification.(‹›¨ıÿÿÿÿ
-^squid:S1068"HRemove this unused "relativeLocatorSerializedDataVersion" private field.(çüœ-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¨É¿
-Qsquid:S1161.":Add the "@Override" annotation above this method signature(òë£Î
-Qsquid:S11614":Add the "@Override" annotation above this method signature(¶‹

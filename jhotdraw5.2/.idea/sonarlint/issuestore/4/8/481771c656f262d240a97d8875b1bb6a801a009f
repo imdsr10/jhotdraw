@@ -1,4 +1,0 @@
-
-osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(©Ú§éþÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¥Ò¨
-rsquid:UselessImportCheck"IRemove this unused import 'CH.ifa.draw.contrib.SplitPaneDrawApplication'.(»áÍ­ÿÿÿÿÿ

@@ -1,6 +1,0 @@
-
-osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ý¦Âïùÿÿÿÿ
-gsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(ŒÓ¾ùÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶Çö¶üÿÿÿÿ
-Qsquid:S1161":Add the "@Override" annotation above this method signature(á¸¿¡
-jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(Ó‰ê›úÿÿÿÿ

@@ -1,10 +1,0 @@
-
-osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Î» £þÿÿÿÿ
-Bsquid:S3010*"&Remove this assignment of "fgIconkit".(èØøÏûÿÿÿÿ
-O
-squid:S106q"9Replace this use of System.out or System.err by a logger.(²ÿû
-Fsquid:S00108K")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¥Ò¨
-rsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ó­ïÑþÿÿÿÿ
-{squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÞÿË\
-Usquid:S11559">Use isEmpty() to check whether the collection is empty or not.(Ì–Ñ¿

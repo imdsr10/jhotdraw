@@ -1,0 +1,39 @@
+
+mCH.ifa.draw.figures.ChopEllipseConnector#chop(LCH/ifa/draw/framework/Figure;Ljava/awt/Point;)Ljava/awt/Point;
+__unknown_file (targetfrom"1*Ä	
+1}
+s/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/ChopEllipseConnector.java! !(”
+–
+}
+s/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/ChopEllipseConnector.java! !()
+%0"=CH.ifa.draw.framework.Figure#displayBox()Ljava/awt/Rectangle;*
+
+
+targetï
+í
+}
+s/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/ChopEllipseConnector.java! !(*
+r"__id*
+
+%0ˇ
+¸
+}
+s/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/ChopEllipseConnector.java" "(1
+%1"ICH.ifa.draw.util.Geom#pointToAngle(Ljava/awt/Rectangle;Ljava/awt/Point;)D*"
+CH.ifa.draw.util.Geom*
+
+r*
+
+fromÅ
+˛
+}
+s/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/ChopEllipseConnector.java# #(+
+%2"MCH.ifa.draw.util.Geom#ovalAngleToPoint(Ljava/awt/Rectangle;D)Ljava/awt/Point;*"
+CH.ifa.draw.util.Geom*
+
+r*
+"""á
+}
+s/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/figures/ChopEllipseConnector.java# #(,
+
+%2

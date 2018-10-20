@@ -1,0 +1,54 @@
+
+iCH.ifa.draw.standard.StandardDrawing#remove(LCH/ifa/draw/framework/Figure;)LCH/ifa/draw/framework/Figure;
+__unknown_file (figure"3*„
+1y
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/StandardDrawing.javaU U("ƒ
+y
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/StandardDrawing.javaU U(
+""*«	
+2y
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/StandardDrawing.javaR R(å
+â
+y
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/StandardDrawing.javaR R(
+%1"SCH.ifa.draw.framework.Figure#listener()LCH/ifa/draw/framework/FigureChangeListener;*
+
+
+figure­ª
+y
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/StandardDrawing.javaR6 R(G
+%2"'CH.ifa.draw.framework.FigureChangeEvent…
+‚
+y
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/StandardDrawing.javaR2 R(U
+%3"cCH.ifa.draw.framework.FigureChangeEvent#<init>(LCH/ifa/draw/framework/Figure;Ljava/awt/Rectangle;)V*
+
+%2*
+
+
+figure*
+""€
+ý
+y
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/StandardDrawing.javaR R(V
+%4"jCH.ifa.draw.framework.FigureChangeListener#figureRequestRemove(LCH/ifa/draw/framework/FigureChangeEvent;)V*
+
+%1*
+
+%2"‡
+y
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/StandardDrawing.javaS S(
+
+
+figure*î
+3y
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/StandardDrawing.javaQ Q(å
+â
+y
+o/home/imdsr/Documents/Repositorios/jhotdraw/jhotdraw5.2/src/main/java/CH/ifa/draw/standard/StandardDrawing.javaQ Q(
+%0"SCH.ifa.draw.framework.Figure#listener()LCH/ifa/draw/framework/FigureChangeListener;*
+
+
+figure*
+2
+1
