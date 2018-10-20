@@ -1,0 +1,24 @@
+
+O"squid:SwitchLastCaseIsDefaultCheckf""Add a default case to this switch.(ìúÇV
+<squid:S16596" Declare "p2" on a separate line.(ÙÔ÷ÿÿÿÿÿ
+8squid:S16597"!Declare "end" on a separate line.(´™«Ù
+6squid:S16597"Declare "s" on a separate line.(´™«Ù
+6squid:S16597"Declare "e" on a separate line.(´™«Ù
+<squid:S16598" Declare "l2" on a separate line.(ä¥§½ÿÿÿÿÿ
+<squid:S16599" Declare "x2" on a separate line.(ó¿€òûÿÿÿÿ
+<squid:S16599" Declare "y1" on a separate line.(ó¿€òûÿÿÿÿ
+<squid:S16599" Declare "y2" on a separate line.(ó¿€òûÿÿÿÿ
+9squid:S1659:""Declare "xmax" on a separate line.(¾
+9squid:S1659:""Declare "ymin" on a separate line.(¾
+9squid:S1659:""Declare "ymax" on a separate line.(¾
+Asquid:S1659>"%Declare "r1width" on a separate line.(É‹¾”üÿÿÿÿ
+=squid:S1659>"!Declare "r2x" on a separate line.(É‹¾”üÿÿÿÿ
+Asquid:S1659>"%Declare "r2width" on a separate line.(É‹¾”üÿÿÿÿ
+=squid:S1659>"!Declare "r1y" on a separate line.(É‹¾”üÿÿÿÿ
+Bsquid:S1659>"&Declare "r1height" on a separate line.(É‹¾”üÿÿÿÿ
+=squid:S1659>"!Declare "r2y" on a separate line.(É‹¾”üÿÿÿÿ
+Bsquid:S1659>"&Declare "r2height" on a separate line.(É‹¾”üÿÿÿÿ
+Vsquid:S2259„"?A "NullPointerException" could be thrown; "s" is nullable here.(Ë¿•I
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥œ®úÿÿÿÿ
+Qsquid:S1161$":Add the "@Override" annotation above this method signature(üâÁª
+Vsquid:S1161(":Add the "@Override" annotation above this method signature(ŒÔ®Ëúÿÿÿÿ

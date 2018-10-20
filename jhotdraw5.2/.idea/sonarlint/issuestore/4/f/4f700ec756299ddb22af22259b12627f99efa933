@@ -1,0 +1,4 @@
+
+fsquid:S1068"JRemove this unused "abstractConnectorSerializedDataVersion" private field.(À×•ÿÿÿÿÿ
+Msquid:S1172B"1Remove this unused method parameter "connection".(¹ÑÓûÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¨É¿

@@ -1,0 +1,11 @@
+
+\squid:S1068("@Remove this unused "drawingSerializedDataVersion" private field.(ÖŽÃ™øÿÿÿÿ
+T
+squid:S106e"9Replace this use of System.out or System.err by a logger.(äÌÄïúÿÿÿÿ
+^squid:S2142«"FEither re-interrupt this method or rethrow the "InterruptedException".(™šÉþ
+Bsquid:S00108«")Either remove or fill this block of code.(™šÉþ
+™squid:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óù±ó
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¨É¿
+squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰›½Ýþÿÿÿÿ
+}squid:S1149‡"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·Žíê
+[squid:S1155“">Use isEmpty() to check whether the collection is empty or not.(ëˆ´Ýûÿÿÿÿ

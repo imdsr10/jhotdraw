@@ -1,0 +1,10 @@
+
+csquid:S1068"GRemove this unused "pertDependencySerializedDataVersion" private field.(ùèÎƒıÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶Çö¶üÿÿÿÿ
+Ysquid:UselessImportCheck
+"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+squid:S11498"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‚í¥õùÿÿÿÿ
+Vsquid:S1161":Add the "@Override" annotation above this method signature(®ËÂÈıÿÿÿÿ
+Vsquid:S1161(":Add the "@Override" annotation above this method signature(•ü™©şÿÿÿÿ
+Qsquid:S11613":Add the "@Override" annotation above this method signature(ãçŞ†
+Vsquid:S11617":Add the "@Override" annotation above this method signature(Ş˜íüÿÿÿÿ

@@ -1,0 +1,23 @@
+
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ó…ëŠüÿÿÿÿ
+jsquid:ModifiersOrderCheck%"EReorder the modifiers to comply with the Java Language Specification.(¡Æ—˜
+osquid:ModifiersOrderCheck-"EReorder the modifiers to comply with the Java Language Specification.(“æÚøÿÿÿÿ
+jsquid:ModifiersOrderCheck1"EReorder the modifiers to comply with the Java Language Specification.(¦åÃ×
+jsquid:ModifiersOrderCheck5"EReorder the modifiers to comply with the Java Language Specification.(÷™çŞ
+jsquid:ModifiersOrderCheck9"EReorder the modifiers to comply with the Java Language Specification.(”ªªĞ
+jsquid:ModifiersOrderCheck="EReorder the modifiers to comply with the Java Language Specification.(í—´Õ
+jsquid:ModifiersOrderCheckA"EReorder the modifiers to comply with the Java Language Specification.(É«İÀ
+osquid:ModifiersOrderCheckE"EReorder the modifiers to comply with the Java Language Specification.(³ä˜ùÿÿÿÿ
+osquid:ModifiersOrderCheckH"EReorder the modifiers to comply with the Java Language Specification.(Ôû¨¹ıÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(×ç‚Şùÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¨É¿
+squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ó…ëŠüÿÿÿÿ
+|squid:S1149%"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¡Æ—˜
+Qsquid:S1161R":Add the "@Override" annotation above this method signature(¶ß›Í
+Qsquid:S1161`":Add the "@Override" annotation above this method signature(¶ß›Í
+Qsquid:S1161m":Add the "@Override" annotation above this method signature(¶ß›Í
+Qsquid:S1161{":Add the "@Override" annotation above this method signature(¶ß›Í
+Rsquid:S1161‰":Add the "@Override" annotation above this method signature(¶ß›Í
+Rsquid:S1161—":Add the "@Override" annotation above this method signature(¶ß›Í
+Rsquid:S1161¥":Add the "@Override" annotation above this method signature(¶ß›Í
+Rsquid:S1161³":Add the "@Override" annotation above this method signature(¶ß›Í

@@ -1,0 +1,26 @@
+
+Q"squid:SwitchLastCaseIsDefaultCheckà""Add a default case to this switch.(°Ó÷
+=squid:S1659Ø" Declare "dy" on a separate line.(ˆ¶÷±ÿÿÿÿÿ
+@squid:S1659Ù"#Declare "stepY" on a separate line.(ÉÃåúÿÿÿÿÿ
+osquid:ModifiersOrderCheck$"EReorder the modifiers to comply with the Java Language Specification.(óÜô†ıÿÿÿÿ
+jsquid:ModifiersOrderCheck3"EReorder the modifiers to comply with the Java Language Specification.(æ·Äû
+osquid:ModifiersOrderCheck8"EReorder the modifiers to comply with the Java Language Specification.(İïÇÃûÿÿÿÿ
+`squid:S1068d"DRemove this unused "drawingViewSerializedDataVersion" private field.(Ê¦Îÿüÿÿÿÿ
+hsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(Óû½âûÿÿÿÿ
+Hsquid:S1481±"+Remove this unused "figure" local variable.(ÿëƒÚÿÿÿÿÿ
+xsquid:CallToDeprecatedMethod¨"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‹Ä­ˆùÿÿÿÿ
+™squid:S1186­"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôãƒ
+™squid:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷á›®
+™squid:S1186¯"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îŞÉô
+squid:S1186°"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğÀ¨şÿÿÿÿ
+squid:S1186±"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§€Åÿÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¨É¿
+|squid:S11493"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æ·Äû
+squid:S11498"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(İïÇÃûÿÿÿÿ
+squid:S1149J"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ğë×úÿÿÿÿ
+squid:S1149Q"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ìº¯Úÿÿÿÿÿ
+‚squid:S1149í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¥û¤–şÿÿÿÿ
+‚squid:S1149Ô"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(û©öÿùÿÿÿÿ
+Jsquid:S1948\".Make "fConstrainer" transient or serializable.(ó¬ÂÓúÿÿÿÿ
+Rsquid:S1161œ":Add the "@Override" annotation above this method signature(æìÑº
+Wsquid:S1161¨":Add the "@Override" annotation above this method signature(‹Ä­ˆùÿÿÿÿ

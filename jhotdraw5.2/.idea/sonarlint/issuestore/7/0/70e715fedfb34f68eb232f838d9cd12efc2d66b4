@@ -1,0 +1,18 @@
+
+ksquid:S2975Ó"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+vsquid:S3038V"Z"basicDisplayBox" is defined in the "Figure" interface and can be removed from this class.(á ‚şÿÿÿÿ
+qsquid:S3038["U"displayBox" is defined in the "Figure" interface and can be removed from this class.(ş·ùİüÿÿÿÿ
+nsquid:S3038c"R"handles" is defined in the "Figure" interface and can be removed from this class.(ñğÚûùÿÿÿÿ
+^squid:S1068-"GRemove this unused "abstractFigureSerializedDataVersion" private field.(ıÓåÚ
+usquid:S4144ª"XUpdate this method so that its implementation is not identical to "figures" on line 105.(´ŠïÂøÿÿÿÿ
+P
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(äßù
+P
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡
+P
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(äßù
+Asquid:S1905á")Remove this unnecessary cast to "Object".(¨·Œ¸
+`squid:S1182Ó"HUse super.clone() to create and seed the cloned instance to be returned.(²ÈŞ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¨É¿
+squid:S1149j"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ˆ‚ÉŞûÿÿÿÿ
+‚squid:S1149«"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ˆ‚ÉŞûÿÿÿÿ

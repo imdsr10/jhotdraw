@@ -1,0 +1,10 @@
+
+U"squid:SwitchLastCaseIsDefaultCheckH""Add a default case to this switch.(¼øØíùÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(‘ãÒ™ıÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(±ïì’
+osquid:ModifiersOrderCheck!"EReorder the modifiers to comply with the Java Language Specification.(êÖˆøÿÿÿÿ
+osquid:ModifiersOrderCheck%"EReorder the modifiers to comply with the Java Language Specification.(ûù—Úùÿÿÿÿ
+isquid:ModifiersOrderCheck)"EReorder the modifiers to comply with the Java Language Specification.(Õ¥õ\
+jsquid:ModifiersOrderCheck-"EReorder the modifiers to comply with the Java Language Specification.(Ë“¢õ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¨É¿
+Vsquid:S1161<":Add the "@Override" annotation above this method signature( êÍúÿÿÿÿ

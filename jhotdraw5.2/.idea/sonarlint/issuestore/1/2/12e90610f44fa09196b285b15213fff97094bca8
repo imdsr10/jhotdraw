@@ -1,0 +1,10 @@
+
+csquid:S1068"GRemove this unused "roundRectangleSerializedDataVersion" private field.(€«°üÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥œ®úÿÿÿÿ
+|squid:S1149A"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·íê
+Vsquid:S1161U":Add the "@Override" annotation above this method signature(éìúÿÿÿÿ
+Vsquid:S1161Z":Add the "@Override" annotation above this method signature(øÓ¼şúÿÿÿÿ
+Qsquid:S1161_":Add the "@Override" annotation above this method signature(™–ßò
+Qsquid:S1161c":Add the "@Override" annotation above this method signature(šåˆ©
+Qsquid:S1161g":Add the "@Override" annotation above this method signature(òë£Î
+Qsquid:S1161q":Add the "@Override" annotation above this method signature(¶‹

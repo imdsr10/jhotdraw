@@ -1,0 +1,4 @@
+
+msquid:S1206¿"PThis class overrides "equals()" and should therefore also override "hashCode()".(èŠÙ•úÿÿÿÿ
+^$squid:AssignmentInSubExpressionCheck:".Extract the assignment out of this expression.(ˆŽ“´
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¥Ò¨

@@ -1,0 +1,9 @@
+
+Gsquid:S1066þ"/Merge this if statement with the enclosing one.(ŸÿÜÙ
+asquid:S4201Ä"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ÂíÁä
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¨É¿
+Vsquid:S1161I":Add the "@Override" annotation above this method signature(õ´Ñþÿÿÿÿÿ
+Vsquid:S1161R":Add the "@Override" annotation above this method signature(‰¯šåúÿÿÿÿ
+Qsquid:S1161q":Add the "@Override" annotation above this method signature(ßè€Î
+Rsquid:S1161ƒ":Add the "@Override" annotation above this method signature(§£§ù
+Rsquid:S1161—":Add the "@Override" annotation above this method signature(î¾‡Ø

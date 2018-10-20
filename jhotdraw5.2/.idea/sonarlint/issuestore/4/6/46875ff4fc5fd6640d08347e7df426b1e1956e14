@@ -1,0 +1,19 @@
+
+_squid:S1068*"HRemove this unused "decoratorFigureSerializedDataVersion" private field.(ïÇõ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¨É¿
+Qsquid:S1161B":Add the "@Override" annotation above this method signature(™–ßò
+Vsquid:S1161I":Add the "@Override" annotation above this method signature(Ñœ–íüÿÿÿÿ
+Qsquid:S1161P":Add the "@Override" annotation above this method signature(†Õ…Í
+Vsquid:S1161|":Add the "@Override" annotation above this method signature(„Ù÷ııÿÿÿÿ
+Wsquid:S1161Š":Add the "@Override" annotation above this method signature(£ö­Çûÿÿÿÿ
+Wsquid:S1161‘":Add the "@Override" annotation above this method signature(«ÑËÚùÿÿÿÿ
+Wsquid:S1161Ÿ":Add the "@Override" annotation above this method signature(Ó‹œşÿÿÿÿ
+Rsquid:S1161É":Add the "@Override" annotation above this method signature(îßƒú
+Wsquid:S1161Ğ":Add the "@Override" annotation above this method signature(´ŠïÂøÿÿÿÿ
+Wsquid:S1161×":Add the "@Override" annotation above this method signature(ù”íºùÿÿÿÿ
+Rsquid:S1161Ş":Add the "@Override" annotation above this method signature(ËùÃƒ
+Rsquid:S1161å":Add the "@Override" annotation above this method signature(Ÿ°§Í
+Rsquid:S1161ì":Add the "@Override" annotation above this method signature(šåˆ©
+Rsquid:S1161ó":Add the "@Override" annotation above this method signature(£İ¹
+Rsquid:S1161ú":Add the "@Override" annotation above this method signature(òë£Î
+Rsquid:S1161‚":Add the "@Override" annotation above this method signature(¶‹

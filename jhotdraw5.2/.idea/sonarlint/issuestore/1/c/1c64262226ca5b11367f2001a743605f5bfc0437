@@ -1,0 +1,7 @@
+
+`squid:S1068"DRemove this unused "imageFigureSerializedDataVersion" private field.(ÂŞ±ùşÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥œ®úÿÿÿÿ
+|squid:S11495"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(·íê
+Qsquid:S1161F":Add the "@Override" annotation above this method signature(ğà¸’
+Qsquid:S1161d":Add the "@Override" annotation above this method signature(òë£Î
+Qsquid:S1161r":Add the "@Override" annotation above this method signature(¶‹

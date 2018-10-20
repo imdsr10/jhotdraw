@@ -1,0 +1,11 @@
+
+>squid:S1214""Move constants to a class or enum.(²²áûÿÿÿÿÿ
+Qsquid:S1133("5Do not forget to remove this deprecated code someday.(Õ¯©êüÿÿÿÿ
+Qsquid:S11333"5Do not forget to remove this deprecated code someday.(òÜ·¸þÿÿÿÿ
+Qsquid:S1133="5Do not forget to remove this deprecated code someday.(º¡ýÛúÿÿÿÿ
+Lsquid:S1133W"5Do not forget to remove this deprecated code someday.(·»ˆ®
+Tsquid:MissingDeprecatedCheck("'Add the missing @Deprecated annotation.(Õ¯©êüÿÿÿÿ
+Tsquid:MissingDeprecatedCheck3"'Add the missing @Deprecated annotation.(òÜ·¸þÿÿÿÿ
+Tsquid:MissingDeprecatedCheck="'Add the missing @Deprecated annotation.(º¡ýÛúÿÿÿÿ
+Osquid:MissingDeprecatedCheckW"'Add the missing @Deprecated annotation.(·»ˆ®
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÉÊ¹ÿÿÿÿÿ

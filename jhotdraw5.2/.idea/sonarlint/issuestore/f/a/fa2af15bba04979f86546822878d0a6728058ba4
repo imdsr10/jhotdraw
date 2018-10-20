@@ -1,0 +1,9 @@
+
+esquid:S1068""IRemove this unused "locatorConnectorSerializedDataVersion" private field.(Çù¿•úÿÿÿÿ
+Hsquid:S1172-"1Remove this unused method parameter "connection".(¨×ü¢
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¨É¿
+Qsquid:S11614":Add the "@Override" annotation above this method signature(†Õ…Í
+Qsquid:S1161;":Add the "@Override" annotation above this method signature(Œ¹êÕ
+Qsquid:S1161G":Add the "@Override" annotation above this method signature(ğà¸’
+Qsquid:S1161S":Add the "@Override" annotation above this method signature(òë£Î
+Qsquid:S1161[":Add the "@Override" annotation above this method signature(¶‹

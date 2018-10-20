@@ -1,0 +1,14 @@
+
+ksquid:S2975ù"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(é≤»ﬁ
+P"squid:SwitchLastCaseIsDefaultCheckB""Add a default case to this switch.(Û ÎÜ
+bsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(Ú∑ˆç
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èø–¨
+Åsquid:S1149)"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(∫ë‚Á¯ˇˇˇˇ
+Vsquid:S1161(":Add the "@Override" annotation above this method signature(ﬁòêÌ¸ˇˇˇˇ
+Qsquid:S1161p":Add the "@Override" annotation above this method signature(‡∏í
+Qsquid:S1161y":Add the "@Override" annotation above this method signature(ôñﬂÚ
+Rsquid:S1161ë":Add the "@Override" annotation above this method signature(Ü’ÖÕ
+Wsquid:S1161ï":Add the "@Override" annotation above this method signature(ÕÖ‡¨¯ˇˇˇˇ
+Rsquid:S1161ù":Add the "@Override" annotation above this method signature(é≤»ﬁ
+Rsquid:S1161•":Add the "@Override" annotation above this method signature(ÚÎ£Œ
+Rsquid:S1161™":Add the "@Override" annotation above this method signature(ç∂ãê

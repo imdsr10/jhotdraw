@@ -1,0 +1,5 @@
+
+msquid:S3038%"Q"locate" is defined in the "Handle" interface and can be removed from this class.(Àßâèýÿÿÿÿ
+Qsquid:S1133d"5Do not forget to remove this deprecated code someday.(†÷ñ‰üÿÿÿÿ
+Tsquid:MissingDeprecatedCheckd"'Add the missing @Deprecated annotation.(†÷ñ‰üÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó¨É¿

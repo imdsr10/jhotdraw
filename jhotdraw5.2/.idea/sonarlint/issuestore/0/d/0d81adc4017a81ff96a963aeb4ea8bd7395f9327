@@ -1,0 +1,11 @@
+
+=squid:S1172"&Remove these unused method parameters.(Æ©ÊÜ
+˜squid:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ‡‰ã
+squid:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘³»¤ùÿÿÿÿ
+squid:S1186q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö­”ûÿÿÿÿ
+squid:S1186x"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‰Ü›Äşÿÿÿÿ
+asquid:S4201˜"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Šç˜Ø
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é¿Ğ¬
+Qsquid:S1161.":Add the "@Override" annotation above this method signature(¿îê
+Qsquid:S1161A":Add the "@Override" annotation above this method signature(ßè€Î
+Qsquid:S1161Q":Add the "@Override" annotation above this method signature(§£§ù

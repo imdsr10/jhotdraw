@@ -1,0 +1,5 @@
+
+Tsquid:S1197"8Move the array designator from the variable to the type.(ñœÑîúÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"QMake fName a static final constant or non-public and provide accessors if needed.(²ÁÊð
+€"squid:ClassVariableVisibilityCheck"RMake fColor a static final constant or non-public and provide accessors if needed.(üŠ®ì
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´¥Ò¨

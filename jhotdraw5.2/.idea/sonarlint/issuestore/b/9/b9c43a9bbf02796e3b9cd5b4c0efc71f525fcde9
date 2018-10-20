@@ -1,0 +1,8 @@
+
+=squid:S1190a"!Use a different name than "enum".(¶Û¡£ùÿÿÿÿ
+2squid:S3626["Remove this redundant jump.(ûÁÝ…
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é¿Ð¬
+|squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—½î€
+|squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(÷¼‡Ã
+|squid:S1149$"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íó°ó
+Vsquid:S1161n":Add the "@Override" annotation above this method signature(·®¥êýÿÿÿÿ
