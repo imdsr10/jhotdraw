@@ -1,0 +1,19 @@
+
+@squid:S1948"+Make "fAnimator" transient or serializable.(ƒ½Øô
+Osquid:S1161":Add the "@Override" annotation above this method signature(‚“¶î
+Tsquid:S1161":Add the "@Override" annotation above this method signature(¤§ýÂþÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
+Tsquid:S1161":Add the "@Override" annotation above this method signature(”ª…Œÿÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÂŽ‰Û
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
+Tsquid:S1161":Add the "@Override" annotation above this method signature(—¤Ÿ·ÿÿÿÿÿ
+Osquid:S1161":Add the "@Override" annotation above this method signature(á¸¿¡
+Nsquid:S1161":Add the "@Override" annotation above this method signature(«„Ù"
+Osquid:S1161":Add the "@Override" annotation above this method signature(Â•›ª
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
+hsquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(Å‘Îåÿÿÿÿÿ
+;squid:S1075"&Remove this hard-coded path-delimiter.(¹ÕÛ¹
+Dsquid:S00108")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+Bsquid:S1185"(Remove this method to simply inherit it.(”ª…Œÿÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙÍÝƒ

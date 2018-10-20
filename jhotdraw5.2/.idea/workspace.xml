@@ -185,7 +185,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CH/ifa/draw/application/DrawApplication.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -256,6 +256,11 @@
             <path>
               <item name="jhotdraw5.2" type="b2602c69:ProjectViewProjectNode" />
               <item name="jhotdraw5.2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jhotdraw5.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jhotdraw5.2" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jhotdraw5.2" type="b2602c69:ProjectViewProjectNode" />

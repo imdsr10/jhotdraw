@@ -1,0 +1,37 @@
+
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î³Ø‡ıÿÿÿÿ
+Asquid:S1068",Remove this unused "fIconkit" private field.(õ¾Íã
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
+6squid:S2129"!Remove this "Integer" constructor(©˜¨¥
+hsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ˆ½Üòøÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(–ÈÉÚşÿÿÿÿ
+Asquid:S1948"'Make "fTool" transient or serializable.(êæÚ†ÿÿÿÿÿ
+?squid:S1948"*Make "fIconkit" transient or serializable.(õ¾Íã
+Tsquid:S1161":Add the "@Override" annotation above this method signature(û«§Òøÿÿÿÿ
+dsquid:S1192"JDefine a constant instead of duplicating this literal "ArrowMode" 4 times.(¼ŠŒÀûÿÿÿÿ
+;squid:S2129"!Remove this "Integer" constructor(¼ŠŒÀûÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(·­öîúÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(öàê
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
+lsquid:S1450"WRemove the "fIconkit" field and declare it as a local variable in the relevant methods.(õ¾Íã
+;squid:S2129"!Remove this "Integer" constructor(ç»ˆëıÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
+•squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾Ş¢,
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÅÿÕ«
+6squid:S2129"!Remove this "Integer" constructor(ûëâè
+6squid:S2129"!Remove this "Integer" constructor(·ç¶Ä
+dsquid:UnusedPrivateMethod"<Remove this unused private "setStorageFormatManager" method.(ï ˜øÿÿÿÿ
+^squid:CallToDeprecatedMethod"3Remove this use of "getFontList"; it is deprecated.(–ÈÉÚşÿÿÿÿ
+Vsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÅÿÕ«
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+;squid:S2129"!Remove this "Integer" constructor(—Ñ÷úÿÿÿÿ
+;squid:S2129"!Remove this "Integer" constructor(ˆÛä¯üÿÿÿÿ
+_squid:S1192"JDefine a constant instead of duplicating this literal "FontStyle" 3 times.(©˜¨¥
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(ÉöŠŸÿÿÿÿÿ
+Lsquid:S1948"7Make "fStorageFormatManager" transient or serializable.(öÈˆ
+;squid:S2129"!Remove this "Integer" constructor(¼Š„¢ıÿÿÿÿ
